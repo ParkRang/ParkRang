@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Learned : JAVA, SQL, python, JSP, R, HTML
+Learning : Spring
+
+Team Projects :
+Image Social Network(ISN) - JAVA, JSP, HTML, SQL / 백엔드 담당
+Chaekme ( AIVLE ) - Django, python, HTML, SQL / 백엔드 담당
+
+
 <!--
 **ParkRang/ParkRang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
