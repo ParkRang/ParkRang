@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 Learned : JAVA, SQL, python, JSP, R, HTML
+
 Learning : Spring
 
+
 Team Projects :
+
 Image Social Network(ISN) - JAVA, JSP, HTML, SQL / 백엔드 담당
+
 Chaekme ( AIVLE ) - Django, python, HTML, SQL / 백엔드 담당
 
 
