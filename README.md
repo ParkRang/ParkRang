@@ -11,6 +11,7 @@ Image Social Network(ISN) - JAVA, JSP, HTML, SQL / 백엔드 담당
 
 Chaekme ( AIVLE ) - Django, python, HTML, SQL / 백엔드 담당
 
+EnjoyTrip ( SSAFY ) - JAVA, SpringBoot, MySQL, Vue, Vuetify / 백엔드 담당
 
 <!--
 **ParkRang/ParkRang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
